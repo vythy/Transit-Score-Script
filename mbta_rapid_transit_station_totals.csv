@@ -1,0 +1,126 @@
+station_id,station_name,analysis_date,time_window,num_trips,trips_per_hour,lines_served
+place-gover,Government Center,20260408,07:00-10:00,261,87.0,"Blue, Green"
+place-pktrm,Park Street,20260408,07:00-10:00,257,85.66666666666667,"Green, Red"
+place-armnl,Arlington,20260408,07:00-10:00,180,60.0,Green
+place-coecl,Copley,20260408,07:00-10:00,179,59.666666666666664,Green
+place-boyls,Boylston,20260408,07:00-10:00,178,59.333333333333336,Green
+place-north,North Station,20260408,07:00-10:00,170,56.666666666666664,"Green, Orange"
+place-haecl,Haymarket,20260408,07:00-10:00,170,56.666666666666664,"Green, Orange"
+place-state,State,20260408,07:00-10:00,163,54.333333333333336,"Blue, Orange"
+place-dwnxg,Downtown Crossing,20260408,07:00-10:00,158,52.666666666666664,"Orange, Red"
+place-hymnl,Hynes Convention Center,20260408,07:00-10:00,133,44.333333333333336,Green
+place-kencl,Kenmore,20260408,07:00-10:00,132,44.0,Green
+place-lech,Lechmere,20260408,07:00-10:00,88,29.333333333333332,Green
+place-spmnl,Science Park/West End,20260408,07:00-10:00,87,29.0,Green
+place-asmnl,Ashmont,20260408,07:00-10:00,86,28.666666666666668,"Mattapan, Red"
+place-jaksn,Jackson Square,20260408,07:00-10:00,83,27.666666666666668,Orange
+place-rcmnl,Roxbury Crossing,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-sbmnl,Stony Brook,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-tumnl,Tufts Medical Center,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-welln,Wellington,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-ogmnl,Oak Grove,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-mvbcl,Maverick,20260408,07:00-10:00,82,27.333333333333332,Blue
+place-mlmnl,Malden Center,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-masta,Massachusetts Avenue,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-forhl,Forest Hills,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-grnst,Green Street,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-chncl,Chinatown,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-sull,Sullivan Square,20260408,07:00-10:00,82,27.333333333333332,Orange
+place-astao,Assembly,20260408,07:00-10:00,81,27.0,Orange
+place-bbsta,Back Bay,20260408,07:00-10:00,81,27.0,Orange
+place-ccmnl,Community College,20260408,07:00-10:00,81,27.0,Orange
+place-aport,Airport,20260408,07:00-10:00,81,27.0,Blue
+place-bomnl,Bowdoin,20260408,07:00-10:00,81,27.0,Blue
+place-aqucl,Aquarium,20260408,07:00-10:00,81,27.0,Blue
+place-rugg,Ruggles,20260408,07:00-10:00,81,27.0,Orange
+place-wimnl,Wood Island,20260408,07:00-10:00,81,27.0,Blue
+place-orhte,Orient Heights,20260408,07:00-10:00,80,26.666666666666668,Blue
+place-bmmnl,Beachmont,20260408,07:00-10:00,79,26.333333333333332,Blue
+place-wondl,Wonderland,20260408,07:00-10:00,79,26.333333333333332,Blue
+place-rbmnl,Revere Beach,20260408,07:00-10:00,79,26.333333333333332,Blue
+place-brdwy,Broadway,20260408,07:00-10:00,78,26.0,Red
+place-sdmnl,Suffolk Downs,20260408,07:00-10:00,78,26.0,Blue
+place-portr,Porter,20260408,07:00-10:00,77,25.666666666666668,Red
+place-harsq,Harvard,20260408,07:00-10:00,77,25.666666666666668,Red
+place-davis,Davis,20260408,07:00-10:00,77,25.666666666666668,Red
+place-knncl,Kendall/MIT,20260408,07:00-10:00,77,25.666666666666668,Red
+place-cntsq,Central,20260408,07:00-10:00,77,25.666666666666668,Red
+place-chmnl,Charles/MGH,20260408,07:00-10:00,76,25.333333333333332,Red
+place-andrw,Andrew,20260408,07:00-10:00,76,25.333333333333332,Red
+place-alfcl,Alewife,20260408,07:00-10:00,76,25.333333333333332,Red
+place-jfk,JFK/UMass,20260408,07:00-10:00,76,25.333333333333332,Red
+place-sstat,South Station,20260408,07:00-10:00,76,25.333333333333332,Red
+place-matt,Mattapan,20260408,07:00-10:00,49,16.333333333333332,Mattapan
+place-cedgr,Cedar Grove,20260408,07:00-10:00,49,16.333333333333332,Mattapan
+place-cenav,Central Avenue,20260408,07:00-10:00,49,16.333333333333332,Mattapan
+place-capst,Capen Street,20260408,07:00-10:00,49,16.333333333333332,Mattapan
+place-miltt,Milton,20260408,07:00-10:00,48,16.0,Mattapan
+place-valrd,Valley Road,20260408,07:00-10:00,48,16.0,Mattapan
+place-hsmnl,Heath Street,20260408,07:00-10:00,48,16.0,Green
+place-butlr,Butler,20260408,07:00-10:00,48,16.0,Mattapan
+place-esomr,East Somerville,20260408,07:00-10:00,47,15.666666666666666,Green
+place-fbkst,Fairbanks Street,20260408,07:00-10:00,47,15.666666666666666,Green
+place-stpul,Saint Paul Street,20260408,07:00-10:00,47,15.666666666666666,Green
+place-mgngl,Magoun Square,20260408,07:00-10:00,47,15.666666666666666,Green
+place-tapst,Tappan Street,20260408,07:00-10:00,47,15.666666666666666,Green
+place-brmnl,Brigham Circle,20260408,07:00-10:00,47,15.666666666666666,Green
+place-balsq,Ball Square,20260408,07:00-10:00,47,15.666666666666666,Green
+place-bndhl,Brandon Hall,20260408,07:00-10:00,47,15.666666666666666,Green
+place-nuniv,Northeastern University,20260408,07:00-10:00,47,15.666666666666666,Green
+place-kntst,Kent Street,20260408,07:00-10:00,47,15.666666666666666,Green
+place-mfa,Museum of Fine Arts,20260408,07:00-10:00,46,15.333333333333334,Green
+place-lngmd,Longwood Medical Area,20260408,07:00-10:00,46,15.333333333333334,Green
+place-mdftf,Medford/Tufts,20260408,07:00-10:00,46,15.333333333333334,Green
+place-sumav,Summit Avenue,20260408,07:00-10:00,46,15.333333333333334,Green
+place-prmnl,Prudential,20260408,07:00-10:00,46,15.333333333333334,Green
+place-symcl,Symphony,20260408,07:00-10:00,46,15.333333333333334,Green
+place-smary,Saint Mary's Street,20260408,07:00-10:00,46,15.333333333333334,Green
+place-rvrwy,Riverway,20260408,07:00-10:00,46,15.333333333333334,Green
+place-gilmn,Gilman Square,20260408,07:00-10:00,46,15.333333333333334,Green
+place-engav,Englewood Avenue,20260408,07:00-10:00,46,15.333333333333334,Green
+place-denrd,Dean Road,20260408,07:00-10:00,46,15.333333333333334,Green
+place-bckhl,Back of the Hill,20260408,07:00-10:00,46,15.333333333333334,Green
+place-bcnwa,Washington Square,20260408,07:00-10:00,46,15.333333333333334,Green
+place-harvd,Harvard Avenue,20260408,07:00-10:00,46,15.333333333333334,Green
+place-cool,Coolidge Corner,20260408,07:00-10:00,46,15.333333333333334,Green
+place-fenwd,Fenwood Road,20260408,07:00-10:00,46,15.333333333333334,Green
+place-mispk,Mission Park,20260408,07:00-10:00,46,15.333333333333334,Green
+place-hwsst,Hawes Street,20260408,07:00-10:00,46,15.333333333333334,Green
+place-clmnl,Cleveland Circle,20260408,07:00-10:00,46,15.333333333333334,Green
+place-babck,Babcock Street,20260408,07:00-10:00,45,15.0,Green
+place-amory,Amory Street,20260408,07:00-10:00,45,15.0,Green
+place-chill,Chestnut Hill Avenue,20260408,07:00-10:00,45,15.0,Green
+place-grigg,Griggs Street,20260408,07:00-10:00,45,15.0,Green
+place-alsgr,Allston Street,20260408,07:00-10:00,45,15.0,Green
+place-chswk,Chiswick Road,20260408,07:00-10:00,45,15.0,Green
+place-wrnst,Warren Street,20260408,07:00-10:00,45,15.0,Green
+place-bucen,Boston University Central,20260408,07:00-10:00,45,15.0,Green
+place-buest,Boston University East,20260408,07:00-10:00,45,15.0,Green
+place-sthld,Sutherland Road,20260408,07:00-10:00,45,15.0,Green
+place-wascm,Washington Street,20260408,07:00-10:00,44,14.666666666666666,Green
+place-sougr,South Street,20260408,07:00-10:00,44,14.666666666666666,Green
+place-lake,Boston College,20260408,07:00-10:00,44,14.666666666666666,Green
+place-brico,Packard's Corner,20260408,07:00-10:00,44,14.666666666666666,Green
+place-bland,Blandford Street,20260408,07:00-10:00,44,14.666666666666666,Green
+place-unsqu,Union Square,20260408,07:00-10:00,43,14.333333333333334,Green
+place-rsmnl,Reservoir,20260408,07:00-10:00,43,14.333333333333334,Green
+place-newtn,Newton Highlands,20260408,07:00-10:00,43,14.333333333333334,Green
+place-longw,Longwood,20260408,07:00-10:00,43,14.333333333333334,Green
+place-bvmnl,Brookline Village,20260408,07:00-10:00,43,14.333333333333334,Green
+place-chhil,Chestnut Hill,20260408,07:00-10:00,42,14.0,Green
+place-woodl,Woodland,20260408,07:00-10:00,42,14.0,Green
+place-waban,Waban,20260408,07:00-10:00,42,14.0,Green
+place-river,Riverside,20260408,07:00-10:00,42,14.0,Green
+place-fenwy,Fenway,20260408,07:00-10:00,42,14.0,Green
+place-brkhl,Brookline Hills,20260408,07:00-10:00,42,14.0,Green
+place-bcnfd,Beaconsfield,20260408,07:00-10:00,42,14.0,Green
+place-newto,Newton Centre,20260408,07:00-10:00,42,14.0,Green
+place-eliot,Eliot,20260408,07:00-10:00,41,13.666666666666666,Green
+place-qamnl,Quincy Adams,20260408,07:00-10:00,39,13.0,Red
+place-smmnl,Shawmut,20260408,07:00-10:00,39,13.0,Red
+place-fldcr,Fields Corner,20260408,07:00-10:00,38,12.666666666666666,Red
+place-brntn,Braintree,20260408,07:00-10:00,38,12.666666666666666,Red
+place-qnctr,Quincy Center,20260408,07:00-10:00,38,12.666666666666666,Red
+place-nqncy,North Quincy,20260408,07:00-10:00,38,12.666666666666666,Red
+place-shmnl,Savin Hill,20260408,07:00-10:00,38,12.666666666666666,Red
+place-wlsta,Wollaston,20260408,07:00-10:00,38,12.666666666666666,Red
