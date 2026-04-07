@@ -1,4 +1,4 @@
-Script to calculate `trips_per_hour` across MBTA rapid transit stations on a specific day.
+Script to calculate `trips_per_hour` across MBTA rapid transit stations on a specific day using public MBTA GTFS data.
 
 The scheduled calendar day chosen was `2026-04-08` (Wednesday). Chosen since weekday service schedule is fairly consistent and so we use `2026-04-08` as a represnetative weekday.
 
