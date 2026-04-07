@@ -7,4 +7,4 @@ The scheduled calendar day chosen was `2026-04-08` (Wednesday). Chosen since wee
 
 Default measured hours are from `7-10` (morning commute peak) to reflect our group's goal of determining TOD HOUSING development priority. 
 
-To run locally `python transit_score.py` with `MBTA_GTFS` dataset in same directory ([text](https://www.mbta.com/developers/gtfs))
+To run locally `python transit_score.py` with the ([MBTA GTFS](https://www.mbta.com/developers/gtfs)) dataset in the same directory 
